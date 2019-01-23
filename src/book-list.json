@@ -1,0 +1,1164 @@
+{
+  "books": [
+    {
+      "kind": "books#volume",
+      "id": "Wlu8DAAAQBAJ",
+      "etag": "xE1IC4S0QLE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Wlu8DAAAQBAJ",
+      "volumeInfo": {
+        "title": "Front-End Web Development",
+        "subtitle": "The Big Nerd Ranch Guide",
+        "authors": [
+          "Chris Aquino",
+          "Todd Gandee"
+        ],
+        "publisher": "Pearson Technology Group",
+        "publishedDate": "2016-07-26",
+        "description": "Front-end development targets the browser, putting your applications in front of the widest range of users regardless of device or operating system. This guide will give you a solid foundation for creating rich web experiences across platforms. Focusing on JavaScript, CSS3, and HTML5, this book is for programmers with a background in other platforms and developers with previous web experience who need to get up to speed quickly on current tools and best practices. Each chapter of this book will guide you through essential concepts and APIs as you build a series of applications. You will implement responsive UIs, access remote web services, build applications with Ember.js, and more. You will also debug and test your code with cutting-edge development tools and harness the power of Node.js and the wealth of open-source modules in the npm registry. After working through the step-by-step example projects, you will understand how to build modern websites and web applications.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780134432571"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0134432576"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Wlu8DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Wlu8DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Wlu8DAAAQBAJ&printsec=frontcover&dq=front+end+development&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Wlu8DAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-Wlu8DAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 39.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 23.49,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Wlu8DAAAQBAJ&rdid=book-Wlu8DAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3.999E7,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 2.349E7,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Front_End_Web_Development-sample-epub.acsm?id=Wlu8DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Front_End_Web_Development-sample-pdf.acsm?id=Wlu8DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Wlu8DAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This guide will give you a solid foundation for creating rich web experiences across platforms."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W7Y7CwAAQBAJ",
+      "etag": "lq4hU9GYkrY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W7Y7CwAAQBAJ",
+      "volumeInfo": {
+        "title": "Front-end Development with ASP.NET Core, Angular, and Bootstrap",
+        "authors": [
+          "Simone Chiaretta"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2018-03-07",
+        "description": "This book shows you how to integrate ASP.NET Core with Angular, Bootstrap, and similar frameworks, with a bit of Nuget, continuous deployment, Bower dependencies, and Gulp build systems, including development beyond Windows on Mac and Linux.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781119181316"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1119181313"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=W7Y7CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=W7Y7CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=W7Y7CwAAQBAJ&printsec=frontcover&dq=front+end+development&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=W7Y7CwAAQBAJ&dq=front+end+development&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Front_end_Development_with_ASP_NET_Core.html?hl=&id=W7Y7CwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W7Y7CwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Annotation Utilizing the most popular combination of web technologies for Microsoft developers, this guide provides the latest best practices and ASP.NET MVP guidance to get you up to speed quickly."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LpctBAAAQBAJ",
+      "etag": "FYAXodXH9DY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LpctBAAAQBAJ",
+      "volumeInfo": {
+        "title": "JavaScript and JQuery",
+        "subtitle": "Interactive Front-End Web Development",
+        "authors": [
+          "Jon Duckett"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2014-06-30",
+        "description": "Provides information on how to make more interactive, engaging, and usable Web pages with JavaScript and jQuery, covering core programming concepts in both and such techniques as animation, form validation, and interactive galleries.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118531648"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118531647"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 622,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LpctBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LpctBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LpctBAAAQBAJ&printsec=frontcover&dq=front+end+development&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=LpctBAAAQBAJ&dq=front+end+development&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/JavaScript_and_JQuery.html?hl=&id=LpctBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LpctBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Are you new to JavaScript, or have you added scripts to your webpage but want a better idea of how they work? Then this book is foryou."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sP1fDwAAQBAJ",
+      "etag": "YY6HKtztTLE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sP1fDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Connecting Arduino to the Web",
+        "subtitle": "Front End Development Using JavaScript",
+        "authors": [
+          "Indira Knight"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2018-07-21",
+        "description": "Create physical interfaces that interact with the Internet and web pages. With Arduino and JavaScript you can create interactive physical displays and connected devices that send data to or receive data from the web. You'll take advantage of the processes needed to set up electronic components, collect data, and create web pages able to interact with electronic components. Through exercises, projects, and explanations, this book will give you the core front end web development and electronics skills needed to create connected physical interfaces and build compelling visualizations with a range of JavaScript libraries. By the end of the book you will have developed fully working interactive prototypes capable of sending data to and receiving data from a physical interface. Most importantly, Connecting Arduino to the Web will give you a taste of what is possible and the knowledge to create your own connected physical interfaces and bring the web into your electronics projects. What You'll Learn Build an Internet of Things dashboard that updates with electronics attached to an Arduino Use components to interact with online 3D displays Create web pages with HTML and CSS Set up a Node.js server Use WebSockets to process live data Interact with scalable vector graphics (SVG) Who This Book Is For Technologists, developers, and enthusiasts looking to extend their skills, be able to develop physical prototypes with connected devices, and with an interest in getting started with IoT. Also, those excited by the possibilities of connecting the physical and the web.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781484234808"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1484234804"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 393,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sP1fDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sP1fDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=sP1fDwAAQBAJ&printsec=frontcover&dq=front+end+development&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=sP1fDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-sP1fDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 16.19,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=sP1fDwAAQBAJ&rdid=book-sP1fDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2.999E7,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.619E7,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Connecting_Arduino_to_the_Web-sample-epub.acsm?id=sP1fDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Connecting_Arduino_to_the_Web-sample-pdf.acsm?id=sP1fDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sP1fDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Through exercises, projects, and explanations, this book will give you the core front end web development and electronics skills needed to create connected physical interfaces and build compelling visualizations with a range of JavaScript ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kghJjwEACAAJ",
+      "etag": "A543MbfJbDE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kghJjwEACAAJ",
+      "volumeInfo": {
+        "title": "Web Design with HTML, CSS, JavaScript and jQuery Set",
+        "authors": [
+          "Jon Duckett"
+        ],
+        "publisher": "Wiley",
+        "publishedDate": "2014-09-29",
+        "description": "A two-book set for web designers and front-end developers This two-book set combines the titles HTML & CSS: Designing and Building Web Sites and JavaScript & jQuery: Interactive Front-End Development. Together these two books form an ideal platform for anyone who wants to master HTML and CSS before stepping up to JavaScript and jQuery. HTML & CSS covers structure, text, links, images, tables, forms, useful options, adding style with CSS, fonts, colors, thinking in boxes, styling lists and tables, layouts, grids, and even SEO, Google analytics, ftp, and HTML5. JavaScript & jQuery offers an excellent combined introduction to these two technologies using a clear and simple visual approach using diagrams, infographics, and photographs. A handy two-book set that uniquely combines related technologies Highly visual format and accessible language makes these books highly effective learning tools Perfect for beginning web designers and front-end developers",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1119038634"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781119038634"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1152,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kghJjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kghJjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=kghJjwEACAAJ&dq=front+end+development&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=kghJjwEACAAJ&dq=front+end+development&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Web_Design_with_HTML_CSS_JavaScript_and.html?hl=&id=kghJjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kghJjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A handy two-book set that uniquely combines related technologies Highly visual format and accessible language makes these books highly effective learning tools Perfect for beginning web designers and front-end developers"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "k41FDwAAQBAJ",
+      "etag": "yDJJLPd+i30",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/k41FDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Front-End Reactive Architectures",
+        "subtitle": "Explore the Future of the Front-End using Reactive JavaScript Frameworks and Libraries",
+        "authors": [
+          "Luca Mezzalira"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2018-01-04",
+        "description": "Learn how to use reactive architectures on the front-end. There are many technologies using a reactive approach on the back end, but this book teaches you how the reactive manifesto can be used to benefit your front-end programming as well. You will discover what reactive programming is, what the current front-end ecosystem looks like, and how to use a range of frameworks and libraries. You will also apply specific reactive architectures in your own projects. Each concept is taught with a mix of technical explanations and real-world code implementations. The future of front-end programming and architecture is reactive – don’t get left behind: Add Front-End Reactive Architectures to your library today. What You'll Learn Understand when and why you should use a reactive architecture Apply a specific reactive architecture in a project Manage different reactive architectures Who This Book Is For Mid-senior front-end developers, tech leads, and solutions architects",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781484231807"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1484231805"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=k41FDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=k41FDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=k41FDwAAQBAJ&printsec=frontcover&dq=front+end+development&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=k41FDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-k41FDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 16.19,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=k41FDwAAQBAJ&rdid=book-k41FDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2.999E7,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.619E7,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Front_End_Reactive_Architectures-sample-epub.acsm?id=k41FDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Front_End_Reactive_Architectures-sample-pdf.acsm?id=k41FDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=k41FDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Learn how to use reactive architectures on the front-end. There are many technologies using a reactive approach on the back end, but this book teaches you how the reactive manifesto can be used to benefit your front-end programming as well."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d9puuAEACAAJ",
+      "etag": "JPtmO2BE7Hs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d9puuAEACAAJ",
+      "volumeInfo": {
+        "title": "The Angular Tutorial",
+        "subtitle": "Learn Front-End Development and Automated Testing with Angular",
+        "authors": [
+          "Adam Morgan"
+        ],
+        "publishedDate": "2018-04-23",
+        "description": "Learning a front-end framework is hard. \"Getting started\" tutorials cover the basics but you leave thinking, \"Okay, now how do I build something with this?\"The truth is, getting started tutorials aren't all that great for beginners. They're demos to highlight as many features as quickly as possible.They're great for showing off what a framework can do. They aren't so great for teaching you how to build web apps.The end result is a basic application that doesn't mimic what it's like building real applications as a front-end developer. You'll work with a mocked API and database. Application architecture isn't covered. Automated testing is skipped altogether.Trust me, I've been there. But those days are over. With The Angular Tutorial, you'll learn how to build applications using a real API and database. You'll leverage 3rd party APIs like Zomato, Google Places, and open-source libraries just as you would in a real job.The Angular Tutorial assumes you have no previous knowledge of the Angular framework. It starts at the very beginning.Every piece of code is explained and tested to make you interview ready. You'll begin with an introduction to how web applications work followed by an introduction to Angular to give you a good grasp on the basics. Then you'll learn how to setup a real database and API just as I've done at numerous companies ranging from venture capital, startups, Fortune 500 companies, and digital agencies working with companies like CNN, Turner Broadcasting System, NBC, Mazda, AutoTrader and The Home Depot. After that is a deeper dive into Angular where you'll build a real application with features like a signup page, a login page, a dashboard for authenticated users, and a calendar displaying lunch dates which you can show off on your resume or to your friends. You'll deploy this application to the web using Heroku so the proof of your work will be accessible to anyone. ✅ Forms - Template-driven forms or reactive forms? Don't worry, both are covered. ✅ E2E Testing - Fast and easy end-to-end testing of your application with Cypress. ✅ Unit Testing - Unit test your code with Karma and Jasmine. ✅ Services - Communicate with a backend using Angular's HttpClient and write your own interceptors. ✅ Authentication - Secure your application with JSON Web Tokens (JWT). ✅ Authorization - Learn to restrict sections of your application to authorized users. ✅ Module Architecture - Create dumb components, feature modules, and learn to break down an application into smaller parts. ✅ OSS Integration - Why re-invent the wheel? Learn to use open-source libraries to your advantage just as you would on the job. ✅ API Documentation - Learn how to read API documentation so you have the confidence going forward to work with any API. ✅ Deployment - Get your application onto the web. Learn how to build and deploy your Angular application to Heroku.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1980891419"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781980891413"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 508,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=d9puuAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=d9puuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=d9puuAEACAAJ&dq=front+end+development&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=d9puuAEACAAJ&dq=front+end+development&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Angular_Tutorial.html?hl=&id=d9puuAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d9puuAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Application architecture isn&#39;t covered. Automated testing is skipped altogether.Trust me, I&#39;ve been there. But those days are over. With The Angular Tutorial, you&#39;ll learn how to build applications using a real API and database."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cWdmDwAAQBAJ",
+      "etag": "fc3gWNAGFpc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cWdmDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Beginning React",
+        "subtitle": "Simplify your frontend development workflow and enhance the user experience of your applications with React",
+        "authors": [
+          "Andrea Chiarelli"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2018-07-25",
+        "description": "Take your web applications to a whole new level with efficient, component-based UIs that deliver cutting-edge interactivity and performance. Key Features Elaborately explains basics before introducing advanced topics Explains creating and managing the state of components across applications Implement over 15 practical activities and exercises across 11 topics to reinforce your learning Book Description Projects like Angular and React are rapidly changing how development teams build and deploy web applications to production. In this book, you’ll learn the basics you need to get up and running with React and tackle real-world projects and challenges. It includes helpful guidance on how to consider key user requirements within the development process, and also shows you how to work with advanced concepts such as state management, data-binding, routing, and the popular component markup that is JSX. As you complete the included examples, you’ll find yourself well-equipped to move onto a real-world personal or professional frontend project. What you will learn Understand how React works within a wider application stack Analyze how you can break down a standard interface into specific components Successfully create your own increasingly complex React components with HTML or JSX Correctly handle multiple user events and their impact on overall application state Understand the component lifecycle to optimize the UX of your application Configure routing to allow effortless, intuitive navigation through your components Who this book is for If you are a frontend developer who wants to create truly reactive user interfaces in JavaScript, then this is the book for you. For React, you’ll need a solid foundation in the essentials of the JavaScript language, including new OOP features that were introduced in ES2015. An understanding of HTML and CSS is assumed, and a basic knowledge of Node.js will be useful in the context of managing a development workflow, but is not essential.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789534924"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1789534925"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cWdmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cWdmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cWdmDwAAQBAJ&printsec=frontcover&dq=front+end+development&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cWdmDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-cWdmDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.59,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=cWdmDwAAQBAJ&rdid=book-cWdmDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.199E7,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9590000.0,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cWdmDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this book, you’ll learn the basics you need to get up and running with React and tackle real-world projects and challenges."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HE7Y4vmb93oC",
+      "etag": "ACMPZ1HV2aI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HE7Y4vmb93oC",
+      "volumeInfo": {
+        "title": "Node for Front-End Developers",
+        "subtitle": "Writing Server-Side JavaScript Applications",
+        "authors": [
+          "Garann Means"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2012-01-30",
+        "description": "If you know how to use JavaScript in the browser, you already have the skills you need to put JavaScript to work on back-end servers with Node. This hands-on book shows you how to use this popular JavaScript platform to create simple server applications, communicate with the client, build dynamic pages, work with data, and tackle other tasks. Although Node has a complete library of developer-contributed modules to automate server-side development, this book will show you how to program with Node on your own, so you truly understand the platform. Discover firsthand how well Node works as a web server, and how easy it is to learn and use. Set up Node and learn how to build scaffolding for a web application Work with Node natively to see how it functions as a web server Understand how Node receives client data from GET and POST requests Use the Socket.IO module to facilitate realtime client-server communication Choose from among several Node templates to create dynamic pages Learn how to connect to a database, and store data in files Implement the Model-View-Controller pattern, and share Node modules with server and client",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449329044"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449329047"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HE7Y4vmb93oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HE7Y4vmb93oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HE7Y4vmb93oC&printsec=frontcover&dq=front+end+development&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HE7Y4vmb93oC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-HE7Y4vmb93oC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=HE7Y4vmb93oC&rdid=book-HE7Y4vmb93oC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.299E7,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000.0,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HE7Y4vmb93oC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This hands-on book shows you how to use this popular JavaScript platform to create simple server applications, communicate with the client, build dynamic pages, work with data, and tackle other tasks."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s8V4CwAAQBAJ",
+      "etag": "LopgAT68jRQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s8V4CwAAQBAJ",
+      "volumeInfo": {
+        "title": "Frontend Architecture for Design Systems",
+        "subtitle": "A Modern Blueprint for Scalable and Sustainable Websites",
+        "authors": [
+          "Micah Godbolt"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2016-01-28",
+        "description": "Imagine what a large-scale web project would look like if frontend development were not treated as an add-on, but as an equal partner with backend development and content strategy. This practical book takes experienced web developers through the new discipline of frontend architecture, including the latest tools, standards, and best practices that have elevated frontend web development to an entirely new level. Using real-world examples, case studies, and practical tips and tricks throughout, author Micah Godbolt introduces you to the four pillars of frontend architecture. He also provides compelling arguments for developers who want to embrace the mantle of frontend architect and fight to make it a first-class citizen in their next project. The four pillars include: Code: how to approach the HTML, CSS, and JavaScript of a design system Process: tools and processes for creating an efficient and error-proof workflow Testing: creating a stable foundation on which to build your site Documentation: tools for writing documentation while the work is in progress",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491926758"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1491926759"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 198,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s8V4CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s8V4CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=s8V4CwAAQBAJ&printsec=frontcover&dq=front+end+development&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=s8V4CwAAQBAJ&dq=front+end+development&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Frontend_Architecture_for_Design_Systems.html?hl=&id=s8V4CwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s8V4CwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This practical book takes experienced web developers through the new discipline of frontend architecture, including the latest tools, standards, and best practices that have elevated frontend web development to an entirely new level."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xv-IvgAACAAJ",
+      "etag": "r/2VnY8xL1Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xv-IvgAACAAJ",
+      "volumeInfo": {
+        "title": "JavaScript Hands-On Learning",
+        "subtitle": "Interactive Front-End Web Development",
+        "authors": [
+          "Wang"
+        ],
+        "publishedDate": "2016-10-19",
+        "description": "This book provides a concise, practical and problem-oriented guide for JavaScript. Being designed for beginners, no prior programming experience is required except for basic knowledge of HTML and CSS. For anyone who is interested in web programming, this book does not only teach you basic programming concepts through a number of concrete examples, case studies and hands-on exercises, but also makes it easy for you by breaking down each example into steps. All source code used in this book is freely accessible for download.After working through this book, you will have a strong foundation in web development and become an expert in creating interactive, versatile web pages.The book serves equally well as a text for online web programming classes or for self-study.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0998273805"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780998273808"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xv-IvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xv-IvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xv-IvgAACAAJ&dq=front+end+development&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xv-IvgAACAAJ&dq=front+end+development&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/JavaScript_Hands_On_Learning.html?hl=&id=xv-IvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xv-IvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book provides a concise, practical and problem-oriented guide for JavaScript."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xColAAPGubgC",
+      "etag": "X6brdY9vIsE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xColAAPGubgC",
+      "volumeInfo": {
+        "title": "Domain-driven Design",
+        "subtitle": "Tackling Complexity in the Heart of Software",
+        "authors": [
+          "Eric Evans"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2004",
+        "description": "Describes ways to incorporate domain modeling into software development.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780321125217"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0321125215"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 529,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5.0,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xColAAPGubgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xColAAPGubgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xColAAPGubgC&printsec=frontcover&dq=front+end+development&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xColAAPGubgC&dq=front+end+development&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Domain_driven_Design.html?hl=&id=xColAAPGubgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xColAAPGubgC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Describes ways to incorporate domain modeling into software development."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r9RLtcp_1rsC",
+      "etag": "4ArlFcXq3II",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r9RLtcp_1rsC",
+      "volumeInfo": {
+        "title": "Front End Drupal",
+        "subtitle": "Designing, Theming, Scripting",
+        "authors": [
+          "Konstantin Käfer",
+          "Emma Jane Hogbin"
+        ],
+        "publisher": "Prentice Hall",
+        "publishedDate": "2009-04-05",
+        "description": "“For Drupal to succeed, we need books like this.” –Dries Buytaert, Drupal founder and project lead “Drupal faces a common problem on the Web–the relative lack of new, high quality themes. Front End Drupal tackles this problem directly and is designed to help both experienced designers and rank novices get an understanding of how Drupal theming works. In fact, I’ll be the first to admit I learned a lot from this book.” – Dries Buytaert, Drupal founder and project lead The Practical, Complete Guide to Customizing Drupal Sites with Behaviors, Themes, and Templates Drupal is now the world’s #1 open source content management system: Thousands of individuals and organizations are using it to build and update Web sites of virtually every kind. As Web designers and developers adopt Drupal, they need ways to quickly customize the visuals and interactivity of their sites. Drupal offers powerful tools for doing so, but little guidance on using them effectively. Front End Drupal is the solution. In this book, two expert Drupal developers cover everything you need to know to create great visual designs and state-of-the-art interactivity with Drupal’s behaviors, themes, and templates. Front End Drupal is 100% focused on issues of site design, behavior, usability, and management. The authors show how to style Drupal sites, make the most of Drupal’s powerful templating system, build sophisticated community sites, streamline site management, and build more portable, flexible themes. You’ll also gain hands-on experience through several case studies that walk you through the customization of everything from page templates to Web site forums. Prepare and organize content so it’s easier to integrate into Drupal Web sites Structure Drupal page templates that are easy to work with Configure Drupal with the modules and browser tools you need to customize your site Utilize Drupal’s Starter Themes and themes converted from WordPress, Joomla!™, and Drupal 5.x Maximize the power and usability of Drupal’s content editing forms Build usable community sites with user profiles, comments, and user-generated content Use JavaScript™ to make your themes interactive and to enhance usability Create powerful animations and AJAX callbacks with jQuery, Drupal’s JavaScript library About the Web Site The accompanying site, frontenddrupal.com, contains all sample code and themes presented in this book.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780132703031"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0132703033"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 456,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r9RLtcp_1rsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r9RLtcp_1rsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=r9RLtcp_1rsC&printsec=frontcover&dq=front+end+development&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=r9RLtcp_1rsC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-r9RLtcp_1rsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 35.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 19.79,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=r9RLtcp_1rsC&rdid=book-r9RLtcp_1rsC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3.599E7,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.979E7,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r9RLtcp_1rsC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Front End Drupal is the solution. In this book, two expert Drupal developers cover everything you need to know to create great visual designs and state-of-the-art interactivity with Drupal’s behaviors, themes, and templates."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8YyhNm3QHSIC",
+      "etag": "0ujlyPLlprk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8YyhNm3QHSIC",
+      "volumeInfo": {
+        "title": "Professional Website Performance",
+        "subtitle": "Optimizing the Front-End and Back-End",
+        "authors": [
+          "Peter Smith"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2012-11-20",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118487518"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118487516"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8YyhNm3QHSIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8YyhNm3QHSIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8YyhNm3QHSIC&printsec=frontcover&dq=front+end+development&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8YyhNm3QHSIC&dq=front+end+development&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Professional_Website_Performance.html?hl=&id=8YyhNm3QHSIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Professional_Website_Performance-sample-pdf.acsm?id=8YyhNm3QHSIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8YyhNm3QHSIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Professional Website Performance: Examines factors such as compression and JavaScript, database performance, MySQL tuning, NoSQL alternatives, load-balancing across multiple servers, effective caching of web contents, CSS, and more Walks ..."
+      }
+    }
+  ]
+}
