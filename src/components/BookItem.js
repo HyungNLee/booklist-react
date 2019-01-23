@@ -8,8 +8,13 @@ const BookItem = (props) => {
 
   return(
     <div className='book-item'>
-      <p>Title: {props.book.volumeInfo.title}</p>
-      <p>Authors: {authorString()}</p>
+      <div className='book-item-info'>
+        <p>{props.book.volumeInfo.title}</p>
+        <p>By: {authorString()}</p>
+      </div>
+      <div className='book-item-thumbnail-container'>
+        <img src={props.book.volumeInfo.imageLinks.thumbnail} />
+      </div>
     </div>
   );
 };

@@ -1,3 +1,25 @@
+.book-list-container {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+}
+
 .book-item {
-  border: 1px solid black;
+  border: 1px solid rgba(211, 211, 211, 0.555);
+  margin: 0.5rem;
+}
+
+.book-item-info {
+  margin: 5px auto;
+}
+
+.book-item-info p {
+  text-align: center;
+}
+
+.book-item-thumbnail-container {
+  width: 100%;
+}
+
+.book-item-thumbnail-container img {
+  width: 100%;
 }
